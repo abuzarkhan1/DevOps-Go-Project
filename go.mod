@@ -1,3 +1,3 @@
-module github.com/iam-veeramalla/go-web-app
+module github.com/abuzarkhan1/DevOps-Go-Project
 
 go 1.22.5
